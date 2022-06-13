@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.alexperezortuno.ienvs.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.alexperezortuno.ienvs.MyBundle
 
 class MyApplicationService {
 
